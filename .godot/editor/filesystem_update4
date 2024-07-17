@@ -1,0 +1,3 @@
+res://scene_1.tscn
+res://kuwahara_anisotropic.gdshader
+res://kuwahara_classic.gdshader

@@ -1,0 +1,12 @@
+icon
+SpringArm3D
+SubViewport
+SubViewportContainer
+WorldEnvironment
+OmniLight3D
+DirectionalLight3D
+MeshInstance3D
+CSGSphere3D
+Camera3D
+SoftBody3D
+StaticBody3D
